@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1707224387 source:c:\users\23yj\documents\ads\resumo_ads_unip\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1707250046 c:\users\23yj\documents\ads\resumo_ads_unip\funcoes.h
+
+1707250232 source:c:\users\23yj\documents\ads\resumo_ads_unip\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<Windows.h>
+	<locale.h>
+	"funcoes.h"
+
