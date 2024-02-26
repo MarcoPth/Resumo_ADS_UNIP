@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #include <Windows.h>
 #include <locale.h>
+//Teste alteraÃ§Ã£o GitHub
 
 // biblioteca do programa
 #include "funcoes.h"
@@ -16,7 +17,7 @@ int main()
     int op;
 
     do{
-        system("cls"); // lçimpa a tela toda a vez que o loop volta
+        system("cls"); // lï¿½impa a tela toda a vez que o loop volta
         printf("\n\n\nMaterias do segundo semestre\n");
         printf("\n1 - Fundamentos Redes de dados e Comunicacao\n");
         printf("2 - Engenharia de Software\n");
@@ -26,7 +27,7 @@ int main()
         printf("6 - Metodologia Cientifica\n");
         printf("0 - Sair");
 
-        //função que faz o controle de entrada para permiter somente os valores inteiros de 0 a 9
+        //funï¿½ï¿½o que faz o controle de entrada para permiter somente os valores inteiros de 0 a 9
         op = entrada_num(1, "\n\n\t\tEntre com a opcao: ");
         system("cls");
 
