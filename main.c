@@ -6,6 +6,9 @@
 #include <locale.h>
 //Teste alteração GitHub
 
+
+// teste de aleração parte 2 
+
 // biblioteca do programa
 #include "funcoes.h"
 
